@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">StrToHex</string>
+    <string name="et_input_ascii_str">请输入字符串</string>
+    <string name="bt_transform">开始转换</string>
+    <string name="tv_hex">16进制串:</string>
+    <string name="tv_nothing">啥都没</string>
+</resources>
